@@ -1,0 +1,10 @@
+float32 nelly
+---
+float32 front
+float32 right
+float32 left
+float32 back
+float32 backleft
+float32 backright
+float32 frontleft
+float32 frontright
